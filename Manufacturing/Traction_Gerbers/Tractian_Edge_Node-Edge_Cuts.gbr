@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.2*%
+%TF.CreationDate,2026-04-16T16:51:42-04:00*%
+%TF.ProjectId,Tractian_Edge_Node,54726163-7469-4616-9e5f-456467655f4e,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.2) date 2026-04-16 16:51:42*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X31700000Y600000D02*
+X148700000Y600000D01*
+X148700000Y-80900000D01*
+X31700000Y-80900000D01*
+X31700000Y600000D01*
+M02*
